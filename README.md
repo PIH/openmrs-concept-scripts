@@ -58,6 +58,10 @@ Update map types (ie.  NARROWER-THAN) to correct one (ie.  'SAME-AS') for "golde
 
 List CIEL mappings when the uuids does NOT with trailing AAAAA
 
+#### generate-unused-concept-list.sql
+
+Generate intermediate tables with unused concepts
+
 #### list-hum-diagnoses.sql
 
 List all the HUM diagnoses, symptoms, findings, etc. (chief complaints) with ICD10 code, English, French, and Haitian Kreyol names
