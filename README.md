@@ -62,6 +62,10 @@ List CIEL mappings when the uuids does NOT with trailing AAAAA
 
 Generate intermediate tables with unused concepts
 
+#### list-all-diagnoses.sql
+
+(updated 2021) List all diagnoses, symptoms, findings, etc. (chief complaints) with ICD10 code, English, French, and Haitian Kreyol names from concepts server
+
 #### list-hum-diagnoses.sql
 
 List all the HUM diagnoses, symptoms, findings, etc. (chief complaints) with ICD10 code, English, French, and Haitian Kreyol names
