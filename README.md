@@ -66,6 +66,10 @@ Generate intermediate tables with unused concepts
 
 (updated 2021) List all diagnoses, symptoms, findings, etc. (chief complaints) with ICD10 code, English, French, and Haitian Kreyol names from concepts server
 
+#### list-concepts-with-unmatched-pih-mapping.sql
+
+List concepts that have a different concept id from the PIH numeric mapping
+
 #### list-hum-diagnoses.sql
 
 List all the HUM diagnoses, symptoms, findings, etc. (chief complaints) with ICD10 code, English, French, and Haitian Kreyol names
